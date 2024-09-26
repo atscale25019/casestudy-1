@@ -33,12 +33,4 @@ level_attributes:
     key_columns:
       - employee_id
     name_column: employee_name
-  - unique_name: employees_empty_attr
-    label: employees_empty_attr
-    contains_unique_names: false
-    dataset: employees
-    is_hidden: true
-    is_unique_key: false
-    key_columns: []
-    name_column: ''
 type: standard
