@@ -4,3 +4,4 @@ label: Total Discount
 calculation_method: sum
 column: itemdiscount
 dataset: orders
+format: general number
